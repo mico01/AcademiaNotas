@@ -1,0 +1,11 @@
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\obj\Debug\netcoreapp3.0\Academia.csprojAssemblyReference.cache
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\obj\Debug\netcoreapp3.0\Academia.AssemblyInfoInputs.cache
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\obj\Debug\netcoreapp3.0\Academia.AssemblyInfo.cs
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\bin\Debug\netcoreapp3.0\Academia.exe
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\bin\Debug\netcoreapp3.0\Academia.deps.json
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\bin\Debug\netcoreapp3.0\Academia.runtimeconfig.json
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\bin\Debug\netcoreapp3.0\Academia.runtimeconfig.dev.json
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\bin\Debug\netcoreapp3.0\Academia.dll
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\bin\Debug\netcoreapp3.0\Academia.pdb
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\obj\Debug\netcoreapp3.0\Academia.dll
+C:\Users\formacio\Desktop\Fabrizio\AcademiaNotas\Academia\Academia\obj\Debug\netcoreapp3.0\Academia.pdb
